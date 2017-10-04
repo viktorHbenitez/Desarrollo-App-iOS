@@ -5,6 +5,7 @@ import UIKit
 
 
 /*
+ JUEGO DE MEMORIA
  Generar un rango de 0 a 10, incluye el numero 100 en el rango
  Generar una serie de numeros del 0 al 100 (incluir el 100) y cada vez que imprimas ese numero tiene que decir como lo imprimes de acuerdo a las sig. 4 reglas.
  
@@ -22,7 +23,7 @@ for numero in serieNumeros{
     if numero >= 30 && numero <= 40{
         print("\(numero) Viva Swift!!")
     }else if numero % 5 == 0{
-        print("\(numero) Bingo!!")
+        print("\(numero) Bingo!")
     }else if numero % 2 == 0{
         print("\(numero) Par!!")
     }else if numero % 2 != 0{
