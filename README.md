@@ -1,5 +1,5 @@
 
-#Desarrollo de Aplicaciones iOS <h1>
+#Desarrollo de Aplicaciones iOS
 
 
 ###JUEGO DE MEMORIA
